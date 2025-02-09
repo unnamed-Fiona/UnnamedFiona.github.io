@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: '这是我做的一个简易小游戏'
 date: 2025-02-04
-paperurl: 'http://academicpages.github.io/files/bugcat .zip'
+paperurl: 'https://github.com/unnamed-Fiona/experience/blob/master/files/bugcat%20.zip'
 citation: '一次尝试，自我感觉并不良好。'
 ---
 
