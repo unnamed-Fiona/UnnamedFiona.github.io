@@ -1,14 +1,19 @@
 ---
-title: "Paper Title Number 1"
+title: "仲夏夜虫梦"
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+excerpt: '这是我做的一个简易小游戏'
+date: 2025-02-04
+paperurl: 'http://academicpages.github.io/files/bugcat .zip'
+citation: '一次尝试，自我感觉并不良好。'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+猫猫虫睡觉的时候做梦了，梦中见到了许多“猫猫虫”，猫猫虫被乌云扔出的雨滴激怒，要好好惩罚这些“猫猫虫”     
+WASD行走，J攻击K闪避H快跑，鼠标左键可以射击
+~~<p style="font-color:blue;font-size:10px">想必不熟悉射击的猫猫虫射击就像玩家右手去控制鼠标一样难受罢</p>~~      
+黄条子弹，上限30发，绿色的是体力，右边蓝色的是翻滚冷却，由于没有受伤无敌时间，很可能被某个攻击直接打到死。吃掉场地上的肉可以回满生命和体力，但是吃肉需要时间且会被打断。       
+怪物：猫猫鲨 打人很快，很疼，血比较厚，会朝向猫猫虫随机移动；乌云，连射若干子弹，会远离猫猫虫随即移动；直升机猫猫虫 一次性射出若干子弹，或放猫猫虫炸弹，移动纯随机，血比较厚，打人比较疼；猫猫虫炸弹可以被近战攻击弹回，炸弹的爆炸也能弹回未爆炸的炸弹；国王猫猫虫，大概率让其他所有敌方单位提前行动，或随机移动（写的时候没想到，这玩意三个叠起来非常恶心       
+这是我第一次不借助游戏引擎，只用c++手搓游戏，借助了易于学习的EasyX和使用准备就花了不少时间的SFML。    
+在写代码时不自觉地使用了windows.h的函数来读取键盘动作，导致linux操作系统没法品尝。想起来的时候已经用了挺多了我就没去改~~linux用户吃不到这一坨倒也是一件好事~~     
+<h1>祝游玩愉快</h1>
